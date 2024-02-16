@@ -1,0 +1,22 @@
+h1{
+    color: green;
+    font-style: italic;
+}
+.notify{
+    color: green;
+   
+    background-color: rgb(242, 237, 237);
+    border-radius: 5px;
+    border-color: green;
+    padding: 15px;
+    align-items: center;
+}
+.error{
+    color: red;
+   
+    background-color: rgb(242, 237, 237);
+    border-radius: 5px;
+    border-color: green;
+    padding: 15px;
+    align-items: center;
+}
